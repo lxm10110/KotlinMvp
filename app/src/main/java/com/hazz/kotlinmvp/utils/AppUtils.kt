@@ -8,7 +8,7 @@ import java.security.MessageDigest
 
 /**
  * Created by xuhao on 2017/12/6.
- * desc: APP 相关的工具类
+ * desc: APP 相关的工具类 工具类
  */
 
 class AppUtils private constructor() {
@@ -125,6 +125,7 @@ class AppUtils private constructor() {
 
             return ""
         }
+
 
 
         /**
